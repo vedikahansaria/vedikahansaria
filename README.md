@@ -1,6 +1,6 @@
 # Vedika Hansaria
 **Senior Product Manager | MBA Candidate at ISB | M.Tech CS**
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [Email](mailto:vedika.hansaria@gmail.com)
+[LinkedIn]([https://www.linkedin.com/in/vedikahansaria/])| [Email](mailto:vedika.hansaria@gmail.com)
 
 ---
 
