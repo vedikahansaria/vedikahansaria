@@ -19,12 +19,12 @@ Prior to ISB, I worked as a **Senior Product Manager** with **6.5 years of exper
 ### 1. [Strategy] Solving Menu Pricing Inflation on UberEats
 **The Challenge:** Restaurants inflate prices to offset commissions, causing a $12B GMV loss.
 **The Solution:** Designed a "Fair Pricing" algorithm and badge system to incentivize lower markups, increasing volume for SMBs.
-👉 [**Read the full case study**]((https://github.com/vedikahansaria/vedikahansaria/blob/main/case-studies/ubereats))
+👉 [**Read the full case study**](https://github.com/vedikahansaria/vedikahansaria/blob/main/case-studies/ubereats)
 
 ### 2. [Technical PM] Ad-Tech Anomaly Detection
 **The Challenge:** SMB advertisers lose budgets to unseen technical glitches (e.g., CPA spikes).
 **The Solution:** Built a statistical baseline detection engine that alerts users to anomalies and diagnoses root causes (e.g., creative fatigue).
-👉 [**Read the full case study**]((https://github.com/vedikahansaria/vedikahansaria/blob/main/case-studies/adcampaign))
+👉 [**Read the full case study**](https://github.com/vedikahansaria/vedikahansaria/blob/main/case-studies/adcampaign)
 
 ---
 
