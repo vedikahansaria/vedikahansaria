@@ -1,0 +1,26 @@
+# 🍔 Case Study: Solving Menu Pricing Inflation on UberEats
+
+### 🚨 The Problem
+Restaurants on UberEats inflate menu prices to offset high commission rates. This creates a broken flywheel:
+* [cite_start]**Consumers** perceive the platform as expensive and abandon carts (22% drop-off upon noticing markup)[cite: 384, 391]
+* [cite_start]**Restaurants (SMBs)** struggle with low conversion rates despite high impressions[cite: 375]
+* [cite_start]**UberEats** loses an estimated **$12B in GMV** due to this friction[cite: 455]
+
+### 🎯 The Solution: "Fair Pricing" Program
+I proposed a strategic initiative to incentivize SMBs to lower markups in exchange for better visibility and growth support.
+
+#### 1. The "Fair Pricing" Badge
+We created a psychological trigger for consumers and a verified status for restaurants.
+* [cite_start]**Mechanism:** Restaurants that keep markups between 10-20% (vs. in-store prices) receive a "Fair Pricing" badge[cite: 473, 474]
+* [cite_start]**Filter:** Added a "Fair Price" filter on the listing page to drive high-intent traffic to compliant partners[cite: 476]
+
+#### 2. Operations & Governance
+* [cite_start]**Alerting System:** An internal trigger notifies the restaurant if they increase prices beyond the 20% threshold[cite: 500]
+* **Merchant Success:** Deployed Merchant Success Managers to educate SMBs that **Total Revenue = Orders × AOV**. [cite_start]Lower margins with higher volume yields higher net profit[cite: 480]
+
+### 📊 Impact & Metrics
+* [cite_start]**North Star:** Monthly Recurring Revenue (MRR) per SMB[cite: 483]
+* [cite_start]**Success Metrics:** Adoption rate of "Fair Pricing," Conversion rate improvement, and Reduction in Consumer Churn[cite: 484, 485]
+* [cite_start]**Strategic Win:** Creates a positive flywheel where fair prices lead to higher order volume, increasing driver earnings and reducing churn across the ecosystem[cite: 469]
+
+[← Back to Portfolio](https://github.com/vedikahansaria)
