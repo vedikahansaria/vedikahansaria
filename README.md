@@ -16,27 +16,20 @@ Prior to ISB, I worked as a **Senior Product Manager** with **6.5 years of exper
 
 ## 📂 Featured Case Studies
 
-### 1. [Publive] Boosting Customer Satisfaction by 30%
-**The Challenge:** Users struggled with complex workflows, leading to a low NPS of 20
-**The Solution:**
-* Conducted 20+ customer interviews to identify friction points
-* Redesigned the homepage for 3 distinct personas (Admin, Manager, Writer)
-* Launched NPS surveys at high-engagement touchpoints
-**The Result:** Increased NPS to **26** and average time-on-site by **15%**
+### 1. [Strategy] Solving Menu Pricing Inflation on UberEats
+**The Challenge:** Restaurants inflate prices to offset commissions, causing a $12B GMV loss.
+**The Solution:** Designed a "Fair Pricing" algorithm and badge system to incentivize lower markups, increasing volume for SMBs.
+👉 [**Read the full case study**](https://github.com/vedikahansaria/vedikahansaria/blob/main/case-studies/ubereats.md)
 
-### 2. [Droom] Building a $500K Fintech Vertical
-**The Challenge:** Expanding the marketplace offering to include integrated financial services
-**The Solution:**
-* Partnered with 3 leading banks to launch a buyer financing pre-qualification flow
-* Led the API integrations and stakeholder management
-**The Result:** Increased Fintech division share by **40% YoY** (approx $500K)
+### 2. [AI Product] AI-Assisted Sprint Planning (BrowserStack)
+**The Challenge:** Engineering Managers rely on intuition for sprint planning, leading to frequent spillovers.
+**The Solution:** An AI module for Jira that predicts developer velocity and auto-balances workloads based on historical data.
+👉 [**Read the full case study**](https://github.com/vedikahansaria/vedikahansaria/blob/main/case-studies/browserstack.md)
 
-### 3. [Studio Mosaic] 150% Revenue Growth Strategy
-**The Challenge:** Scaling a global mobile faxing app
-**The Solution:**
-* Executed aggressive ASO (App Store Optimization) and A/B tested ad creatives
-* Managed paid campaigns across Google, Meta, and Apple Search Ads
-**The Result:** Revenue grew from $50K to **$120K** in 16 months; acquired **500K+ new users**
+### 3. [Technical PM] Ad-Tech Anomaly Detection (Media.net)
+**The Challenge:** SMB advertisers lose budgets to unseen technical glitches (e.g., CPA spikes).
+**The Solution:** Built a statistical baseline detection engine that alerts users to anomalies and diagnoses root causes (e.g., creative fatigue).
+👉 [**Read the full case study**](https://github.com/vedikahansaria/vedikahansaria/blob/main/case-studies/medianet.md)
 
 ---
 
