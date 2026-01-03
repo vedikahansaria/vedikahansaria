@@ -46,7 +46,7 @@ I actively document my learnings in product management and growth.
 * **📚 Author:** *The Complete Beginner's Guide to Apple Search Ads* ([Link](https://amzn.to/3IhH279)
 * **📺 Creator:** Built a YouTube community with **4,700+ views** on PM concepts
   
-  [![Customer Empathy - Netflix Case Study](https://img.youtube.com/vi/EKLObd_iSp8/0.jpg)](https://www.youtube.com/watch?v=EKLObd_iSp8)
+  [![Customer Empathy - Netflix Case Study]](https://www.youtube.com/watch?v=EKLObd_iSp8](https://www.youtube.com/watch?v=Ou4zgg5gQnM)
 
 * **📝 Writer:** Authored **20+ Medium articles** on decision frameworks and execution [Read on Medium](https://medium.com/@vedika.hansaria)
 * **📩 Newsletter:** Curating insights on soft skills and workplace well-being (3,500+ views) [Subscribe on Substack](https://vedikahansaria.substack.com/)
