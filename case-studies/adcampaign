@@ -1,0 +1,25 @@
+# 📉 Case Study: Ad Campaign Anomaly Detection System (Media.net)
+
+### 🚨 The Problem
+Small Business (SMB) advertisers lose budget quickly due to undetected campaign errors.
+* [cite_start]**The "Black Box":** SMBs assume algorithms will handle everything and lack the resources to monitor metrics like CPA or CTR daily[cite: 111, 112]
+* [cite_start]**Financial Risk:** A sudden spike in CPA (Cost Per Acquisition) or a drop in conversion tracking can drain a small marketing budget in hours[cite: 119]
+
+### 🎯 The Solution: Automated Baseline Detection
+A monitoring layer that learns "normal" behavior and alerts users to deviations.
+
+#### 1. Dynamic Baselining
+We moved away from static rules (e.g., "Alert if spend > $100") to statistical anomaly detection.
+* [cite_start]**Learning Phase:** The system analyzes 7-14 days of data to establish a "Rolling Average"[cite: 160]
+* [cite_start]**Trigger Logic:** Alerts are fired if metrics deviate by >2 standard deviations (e.g., Spend spikes 40-60% above normal)[cite: 165]
+
+#### 2. Root Cause Diagnosis
+The system doesn't just say "Something is wrong"; it explains *why*.
+* [cite_start]**Scenario:** If "CPA is High" but "CTR is Normal" → The system diagnoses **"Expensive Traffic Source"**[cite: 186]
+* [cite_start]**Scenario:** If "Impressions High" but "CTR Drops" → The system diagnoses **"Creative Fatigue/Banner Blindness"**[cite: 186]
+
+### 📊 Impact & Metrics
+* [cite_start]**North Star:** % of campaigns running within a healthy performance range[cite: 189]
+* [cite_start]**MVP Feature Set:** Focus on high-financial-risk metrics (CPA spikes, Zero conversions) delivered via WhatsApp/SMS for instant attention[cite: 151]
+
+[← Back to Portfolio](https://github.com/vedikahansaria)
