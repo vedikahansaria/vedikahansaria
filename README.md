@@ -21,12 +21,7 @@ Prior to ISB, I worked as a **Senior Product Manager** with **6.5 years of exper
 **The Solution:** Designed a "Fair Pricing" algorithm and badge system to incentivize lower markups, increasing volume for SMBs.
 👉 [**Read the full case study**](https://github.com/vedikahansaria/vedikahansaria/blob/main/case-studies/ubereats.md)
 
-### 2. [AI Product] AI-Assisted Sprint Planning (BrowserStack)
-**The Challenge:** Engineering Managers rely on intuition for sprint planning, leading to frequent spillovers.
-**The Solution:** An AI module for Jira that predicts developer velocity and auto-balances workloads based on historical data.
-👉 [**Read the full case study**](https://github.com/vedikahansaria/vedikahansaria/blob/main/case-studies/browserstack.md)
-
-### 3. [Technical PM] Ad-Tech Anomaly Detection (Media.net)
+### 2. [Technical PM] Ad-Tech Anomaly Detection
 **The Challenge:** SMB advertisers lose budgets to unseen technical glitches (e.g., CPA spikes).
 **The Solution:** Built a statistical baseline detection engine that alerts users to anomalies and diagnoses root causes (e.g., creative fatigue).
 👉 [**Read the full case study**](https://github.com/vedikahansaria/vedikahansaria/blob/main/case-studies/medianet.md)
