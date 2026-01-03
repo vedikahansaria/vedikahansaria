@@ -43,7 +43,7 @@ Prior to ISB, I worked as a **Senior Product Manager** with **6.5 years of exper
 ## ✍️ Content & Thought Leadership
 I actively document my learnings in product management and growth.
 
-* **📚 Author:** *The Complete Beginner's Guide to Apple Search Ads* ([Link](https://amzn.to/3IhH279)
+* **📚 Author:** *The Complete Beginner's Guide to Apple Search Ads* ([Link](https://amzn.to/3IhH279))
 * **📺 Creator:** Built a YouTube community with **4,700+ views** on PM concepts
   
   [![Customer Empathy - Netflix Case Study]](https://www.youtube.com/watch?v=Ou4zgg5gQnM)
