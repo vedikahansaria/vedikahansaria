@@ -1,23 +1,23 @@
 # Vedika Hansaria
-**Senior Product Manager | MBA Candidate at ISB | M.Tech CS**
-[LinkedIn]([https://www.linkedin.com/in/vedikahansaria/])| [Email](mailto:vedika.hansaria@gmail.com)
+**Senior Product Manager | MBA Candidate at ISB**
+[LinkedIn](https://www.linkedin.com/in/vedikahansaria/) | [Email](mailto:vedika.hansaria@gmail.com)
 
 ---
 
 ## 🚀 Professional Summary
-I am currently pursuing **MBA (PGP)** at the **Indian School of Business (ISB)**, specializing in Information Systems.
+I am currently pursuing my **MBA (PGP)** at the **Indian School of Business (ISB)**, specializing in Information Systems.
 
 Prior to ISB, I worked as a **Senior Product Manager** with **6.5 years of experience** bridging Engineering, Growth, and UX.
-* **Core Strength:** Combining technical depth with product execution.
-* **Impact:** Driven 30-40% revenue boosts and acquired 500K+ users through data-driven strategies.
-* **Background:** B2B SaaS (Publive, Harmonize) and E-commerce Marketplace (Droom).
+* **Core Strength:** Combining technical depth with product execution
+* **Impact:** Driven 30-40% revenue boosts and acquired 500K+ users through data-driven strategies
+* **Background:** B2B SaaS (Publive, Harmonize) and E-commerce Marketplace (Droom)
 
 ---
 
 ## 📂 Featured Case Studies
 
 ### 1. [Publive] Boosting Customer Satisfaction by 30%
-**The Challenge:** Users struggled with complex workflows, leading to a low NPS of 20.
+**The Challenge:** Users struggled with complex workflows, leading to a low NPS of 20
 **The Solution:**
 * Conducted 20+ customer interviews to identify friction points
 * Redesigned the homepage for 3 distinct personas (Admin, Manager, Writer)
@@ -43,10 +43,13 @@ Prior to ISB, I worked as a **Senior Product Manager** with **6.5 years of exper
 ## ✍️ Content & Thought Leadership
 I actively document my learnings in product management and growth.
 
-* **📚 Author:** *The Complete Beginner's Guide to Apple Search Ads* (Published on Kindle).
-* **📺 Creator:** Built a YouTube community with **4,700+ views** on PM concepts.
-* **📝 Writer:** Authored **20+ Medium articles** on decision frameworks and execution.
-* **📩 Newsletter:** Curating insights on soft skills and workplace well-being (3,500+ views).
+* **📚 Author:** *The Complete Beginner's Guide to Apple Search Ads* ([Link](https://amzn.to/3IhH279)
+* **📺 Creator:** Built a YouTube community with **4,700+ views** on PM concepts
+  
+  [![Customer Empathy - Netflix Case Study](https://img.youtube.com/vi/EKLObd_iSp8/0.jpg)](https://www.youtube.com/watch?v=EKLObd_iSp8)
+
+* **📝 Writer:** Authored **20+ Medium articles** on decision frameworks and execution [Read on Medium](https://medium.com/@vedika.hansaria)
+* **📩 Newsletter:** Curating insights on soft skills and workplace well-being (3,500+ views) [Subscribe on Substack](https://vedikahansaria.substack.com/)
 
 ---
 
