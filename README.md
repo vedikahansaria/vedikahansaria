@@ -7,7 +7,7 @@
 ## 🚀 Professional Summary
 I am currently pursuing my **MBA (PGP)** at the **Indian School of Business (ISB)**, specializing in Information Systems.
 
-Prior to ISB, I worked as a **Senior Product Manager** with **6.5 years of experience** bridging Engineering, Growth, and UX.
+Prior to ISB, I worked as a **Senior Product Manager** with **7+ years of experience** bridging Engineering, Growth, and UX.
 * **Core Strength:** Combining technical depth with product execution
 * **Impact:** Driven 30-40% revenue boosts and acquired 500K+ users through data-driven strategies
 * **Background:** B2B SaaS (Publive, Harmonize) and E-commerce Marketplace (Droom)
